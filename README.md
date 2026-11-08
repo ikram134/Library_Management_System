@@ -1,4 +1,10 @@
-📚 Library Management System
+📚 Library Management System<img width="801" height="476" alt="form1" src="https://github.com/user-attachments/assets/18c71aec-92f5-4161-b38e-a9bebd41b44f" />
+<img width="1012" height="310" alt="form2" src="https://github.com/user-attachments/assets/0df9c937-8677-4865-bb45-88ebc2aef998" />
+<img width="860" height="428" alt="form3" src="https://github.com/user-attachments/assets/ca04302e-cfb9-41fd-9595-f1772bb82a98" />
+<img width="799" height="476" alt="homeform" src="https://github.com/user-attachments/assets/317bc8c5-9175-48f6-8f8b-be3a627344da" />
+
+
+
 A desktop application developed using Visual Basic .NET, Windows Forms, and Microsoft SQL Server to manage library operations and database records.
 
 🛠️ Technologies Used
